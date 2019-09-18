@@ -1,0 +1,10 @@
+.justify-text {
+    text-align: justify;
+    text-justify: inter-word;
+  } 
+
+  @media only screen and (max-width: 600px) {
+    .img-width {
+      align-self: auto;
+    }
+  }

@@ -1,0 +1,16 @@
+{
+    "name": "Welcome to my first PWA",
+    "short_name": "Riswan Ardiansah",
+    "description": "Welcome to my first PWA",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#00897B",
+    "icons": [
+        {
+            "src": "assets/images/code.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
